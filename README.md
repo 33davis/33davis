@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @33davis
+- 👀 I’m interested in ancient DNA, metagenomics, phylogenomics, museumomics, and marine evolution. 
+- 🌱 I’m currently learning more about pipeline managers and SQL appliations
+- 😄 Pronouns: she/her 
